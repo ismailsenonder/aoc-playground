@@ -7,8 +7,8 @@ namespace CodeRunner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day3.Part1_CalculateGammaTimesEpsilon());
-            Console.WriteLine(Day3.Part2_CalculateO2GeneratorTimesCO2Scrubber());
+            //Console.WriteLine(Day4.Part1_ScoreOfWinningBoard());
+            Console.WriteLine(Day4.Part2_ScoreOfLosingBoard());
         }
     }
 }
