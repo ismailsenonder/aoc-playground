@@ -7,8 +7,8 @@ namespace CodeRunner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day2.Part1_CalculateDepthAndHorizontalPosition());
-            Console.WriteLine(Day2.Part2_CalculateDepthAndHorizontalPositionWithAim());
+            Console.WriteLine(Day3.Part1_CalculateGammaTimesEpsilon());
+            Console.WriteLine(Day3.Part2_CalculateO2GeneratorTimesCO2Scrubber());
         }
     }
 }
