@@ -7,8 +7,8 @@ namespace CodeRunner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day6.CalculateNumberOfLanternFish(80));
-            Console.WriteLine(Day6.CalculateNumberOfLanternFish(256));
+            Console.WriteLine(Day7.CalculateFuelConsumption(false));
+            Console.WriteLine(Day7.CalculateFuelConsumption(true));
         }
     }
 }
