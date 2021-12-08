@@ -7,8 +7,8 @@ namespace CodeRunner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day7.CalculateFuelConsumption(false));
-            Console.WriteLine(Day7.CalculateFuelConsumption(true));
+            Console.WriteLine(Day8.Part1_NumberOf1478());
+            Console.WriteLine(Day8.Part2_TotalOfAllFourDigitInput());
         }
     }
 }
