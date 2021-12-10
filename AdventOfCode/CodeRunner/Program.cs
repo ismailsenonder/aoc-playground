@@ -7,8 +7,8 @@ namespace CodeRunner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day9.Part1_SumOfRiskLevelsOfAllLowPoints());
-            Console.WriteLine(Day9.Part2_MultiplicationOfThreeBiggestBasinSizes());
+            Console.WriteLine(Day10.Part1_CalculateSyntaxErrorScore());
+            Console.WriteLine(Day10.Part2_TheMiddleTotalScore());
         }
     }
 }
