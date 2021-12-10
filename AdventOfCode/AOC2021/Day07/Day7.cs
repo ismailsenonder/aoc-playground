@@ -8,7 +8,7 @@ namespace AOC2021
 {
     public class Day7
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day7\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day07\input.txt";
 
         //isAccordingToCrab = false => calculate according to submarine
         //isAccordingToCrab = true => calculate according to crabss

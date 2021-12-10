@@ -1,1 +1,0 @@
-Thanks to adventofcode.com

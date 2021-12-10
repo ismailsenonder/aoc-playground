@@ -8,7 +8,7 @@ namespace AOC2021
 {
     public class Day3
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day3\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day03\input.txt";
 
         public static int Part1_CalculateGammaTimesEpsilon()
         {

@@ -7,7 +7,7 @@ namespace AOC2021
 {
     public class Day5
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day5\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day05\input.txt";
         public static int Part1_IntersectionsOfOnlyHorizontalAndVerticalLines()
         {
             string line = "";

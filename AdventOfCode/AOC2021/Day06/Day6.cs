@@ -7,7 +7,7 @@ namespace AOC2021
 {
     public class Day6
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day6\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day06\input.txt";
         public static ulong CalculateNumberOfLanternFish(int numberOfDays)
         {
             StreamReader file = new StreamReader(path);

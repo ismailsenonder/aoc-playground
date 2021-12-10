@@ -7,7 +7,7 @@ namespace AOC2021
 {
     public class Day2
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day2\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day02\input.txt";
         public static int Part1_CalculateDepthAndHorizontalPosition()
         {
             string line = "";

@@ -8,7 +8,7 @@ namespace AOC2021
 {
     public class Day9
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day9\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day09\input.txt";
 
         private class Point
         {

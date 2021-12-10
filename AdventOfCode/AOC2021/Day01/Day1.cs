@@ -5,7 +5,7 @@ namespace AOC2021
 {
     public class Day1
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day1\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day01\input.txt";
         public static int Part1_MeasurementIncrementCount()
         {
             int prev = 0, curr = 0, count = 0;

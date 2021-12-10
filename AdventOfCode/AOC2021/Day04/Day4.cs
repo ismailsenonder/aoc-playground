@@ -9,7 +9,7 @@ namespace AOC2021
 {
     public class Day4
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day4\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day04\input.txt";
         public static int Part1_ScoreOfWinningBoard()
         {
             string line;

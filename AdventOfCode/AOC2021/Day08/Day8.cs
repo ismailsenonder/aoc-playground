@@ -8,7 +8,7 @@ namespace AOC2021
 {
     public class Day8
     {
-        private static string path = Environment.CurrentDirectory + @"\\Day8\input.txt";
+        private static string path = Environment.CurrentDirectory + @"\\Day08\input.txt";
 
         private enum Numbers
         {
