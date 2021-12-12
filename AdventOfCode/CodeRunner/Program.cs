@@ -7,8 +7,8 @@ namespace CodeRunner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day10.Part1_CalculateSyntaxErrorScore());
-            Console.WriteLine(Day10.Part2_TheMiddleTotalScore());
+            Console.WriteLine(Day11.Part1_TotalFlashesAfter100Step());
+            Console.WriteLine(Day11.Part2_AllZeroStep());
         }
     }
 }
