@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AOC2015
+﻿namespace AOC2015
 {
     public static class Day01
     {
@@ -13,6 +7,8 @@ namespace AOC2015
         {
             StreamReader file = new(path);
             string line = file.ReadLine();
+            file.Close();
+
             return line.Count(x => x == '(') - line.Count(x => x == ')');
         }
 
@@ -20,6 +16,8 @@ namespace AOC2015
         {
             StreamReader file = new StreamReader(path);
             string line = file.ReadLine();
+            file.Close();
+
             int position = 0;
             for (int i = 0; i < line.Length; i++)
             {
