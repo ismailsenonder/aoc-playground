@@ -5,7 +5,7 @@
     {
         private static readonly string path = Environment.CurrentDirectory + @"\\Inputs\Day02.txt";
 
-        public static (int total, int ribbon) Part1()
+        public static (int total, int ribbon) Part1And2()
         {
             StreamReader file = new(path);
             string line;
