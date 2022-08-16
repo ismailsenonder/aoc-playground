@@ -13,7 +13,11 @@
 //Console.WriteLine(Day03.Part2());
 
 //Day-04
-Console.WriteLine(Day04.Part1("abcdef", 5));
-Console.WriteLine(Day04.Part1("pqrstuv", 5));
-Console.WriteLine(Day04.Part1("bgvyzdsv", 5));
-Console.WriteLine(Day04.Part1("bgvyzdsv", 6));
+//Console.WriteLine(Day04.Part1("abcdef", 5));
+//Console.WriteLine(Day04.Part1("pqrstuv", 5));
+//Console.WriteLine(Day04.Part1("bgvyzdsv", 5));
+//Console.WriteLine(Day04.Part1("bgvyzdsv", 6));
+
+//Day-05
+Console.WriteLine(Day05.Part1());
+Console.WriteLine(Day05.Part2());
