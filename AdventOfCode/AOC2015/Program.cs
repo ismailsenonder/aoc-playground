@@ -19,5 +19,9 @@
 //Console.WriteLine(Day04.Part1("bgvyzdsv", 6));
 
 //Day-05
-Console.WriteLine(Day05.Part1());
-Console.WriteLine(Day05.Part2());
+//Console.WriteLine(Day05.Part1());
+//Console.WriteLine(Day05.Part2());
+
+//Day-06
+Console.WriteLine(Day06.Part1());
+Console.WriteLine(Day06.Part2());
